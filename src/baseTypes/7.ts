@@ -17,3 +17,5 @@ function isWeekend(day:Days): boolean {
   
   return day === Days.saturday || day === Days.sunday;
 }
+
+export {};
